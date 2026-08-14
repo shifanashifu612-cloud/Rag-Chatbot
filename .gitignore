@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# RAG generated data
+data/chroma_db/
+uploads/
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store

@@ -1,0 +1,7 @@
+RAG stands for Retrieval Augmented Generation.
+
+It combines document retrieval with Large Language Models.
+
+ChromaDB is used as a vector database.
+
+Ollama can run Llama3 locally.
